@@ -24,6 +24,11 @@
 
 <hr>
 
+# Golang
+
+**Switching from Wordpress to Hugo**
+[http://justinfx.com/2015/11/08/switching-from-wordpress-to-hugo/](http://justinfx.com/2015/11/08/switching-from-wordpress-to-hugo/)<br>
+
 # Automation workflow
 **Automating Our Infrastructure to Empower Engineer**<br>
 [https://segment.com/blog/automating-our-infrastructure/](https://segment.com/blog/automating-our-infrastructure/)
