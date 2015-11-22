@@ -12,6 +12,9 @@
 **Ansible project to create and maintain a Jenkins service**<br>
 [https://github.com/alphagov/multicloud-deploy](https://github.com/alphagov/multicloud-deploy)
 
+**Government Service Design Manual**<br>
+[https://www.gov.uk/service-manual](https://www.gov.uk/service-manual)
+
 <hr>
 
 # Netflix
