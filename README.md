@@ -23,6 +23,7 @@
 [https://www.nginx.com/blog/adopting-microservices-at-netflix-lessons-for-team-and-process-design/](https://www.nginx.com/blog/adopting-microservices-at-netflix-lessons-for-team-and-process-design/)
 
 <hr>
+
 # Automation workflow
-Automating Our Infrastructure to Empower Engineer<br>
+**Automating Our Infrastructure to Empower Engineer**<br>
 [https://segment.com/blog/automating-our-infrastructure/](https://segment.com/blog/automating-our-infrastructure/)
