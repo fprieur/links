@@ -29,6 +29,9 @@
 **Switching from Wordpress to Hugo**<br>
 [http://justinfx.com/2015/11/08/switching-from-wordpress-to-hugo/](http://justinfx.com/2015/11/08/switching-from-wordpress-to-hugo/)
 
+**Making a RESTful JSON API in Go**<br>
+[http://thenewstack.io/make-a-restful-json-api-go/](http://thenewstack.io/make-a-restful-json-api-go/)
+
 <hr>
 
 # Automation workflow
