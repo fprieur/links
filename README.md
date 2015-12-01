@@ -35,7 +35,7 @@
 **Golang bootstrap**<br>
 [http://go-bootstrap.io/](http://go-bootstrap.io/)
 
-**GoQuery - good library for web scraping in go**
+**GoQuery - good library for web scraping in go**<br>
 [https://github.com/PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery)
 
 <hr>
