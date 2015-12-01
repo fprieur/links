@@ -32,6 +32,9 @@
 **Making a RESTful JSON API in Go**<br>
 [http://thenewstack.io/make-a-restful-json-api-go/](http://thenewstack.io/make-a-restful-json-api-go/)
 
+**Golang bootstrap**<br>
+[http://go-bootstrap.io/](http://go-bootstrap.io/)
+
 <hr>
 
 # Automation workflow
